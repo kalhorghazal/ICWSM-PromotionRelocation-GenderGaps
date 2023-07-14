@@ -1,0 +1,201 @@
+Country,Gender,Job Seniority,Age Range,Recent Status,Social Connectivity,Count
+US,Female,Director,55+,Not promoted,Connected to big companies,8200
+US,Female,Director,55+,Not promoted,Not connected,10800
+US,Female,Director,35 to 54,Recently promoted,Connected to big companies,2600
+US,Female,Director,35 to 54,Recently promoted,Not connected,1100
+US,Female,Director,35 to 54,Not promoted,Connected to big companies,64400
+US,Female,Director,35 to 54,Not promoted,Not connected,61510
+US,Female,Director,25 to 34,Recently promoted,Connected to big companies,1600
+US,Female,Director,25 to 34,Recently promoted,Not connected,900
+US,Female,Director,25 to 34,Not promoted,Connected to big companies,19400
+US,Female,Director,25 to 34,Not promoted,Not connected,39100
+US,Female,Director,18 to 24,Recently promoted,Connected to big companies,340
+US,Female,Director,18 to 24,Recently promoted,Not connected,230
+US,Female,Director,18 to 24,Not promoted,Connected to big companies,3360
+US,Female,Director,18 to 24,Not promoted,Not connected,6070
+US,Female,Manager,55+,Recently promoted,Not connected,310
+US,Female,Manager,55+,Not promoted,Connected to big companies,6200
+US,Female,Manager,55+,Not promoted,Not connected,12490
+US,Female,Manager,35 to 54,Recently promoted,Connected to big companies,2800
+US,Female,Manager,35 to 54,Recently promoted,Not connected,1400
+US,Female,Manager,35 to 54,Not promoted,Connected to big companies,61200
+US,Female,Manager,35 to 54,Not promoted,Not connected,94130
+US,Female,Manager,25 to 34,Recently promoted,Connected to big companies,3300
+US,Female,Manager,25 to 34,Recently promoted,Not connected,1700
+US,Female,Manager,25 to 34,Not promoted,Connected to big companies,34700
+US,Female,Manager,25 to 34,Not promoted,Not connected,99810
+US,Female,Manager,18 to 24,Recently promoted,Connected to big companies,440
+US,Female,Manager,18 to 24,Recently promoted,Not connected,460
+US,Female,Manager,18 to 24,Not promoted,Connected to big companies,4060
+US,Female,Manager,18 to 24,Not promoted,Not connected,18040
+US,Female,Senior,55+,Recently promoted,Not connected,380
+US,Female,Senior,55+,Not promoted,Connected to big companies,17000
+US,Female,Senior,55+,Not promoted,Not connected,47620
+US,Female,Senior,35 to 54,Recently promoted,Connected to big companies,2400
+US,Female,Senior,35 to 54,Recently promoted,Not connected,2300
+US,Female,Senior,35 to 54,Not promoted,Connected to big companies,146850
+US,Female,Senior,35 to 54,Not promoted,Not connected,327150
+US,Female,Senior,25 to 34,Recently promoted,Connected to big companies,5500
+US,Female,Senior,25 to 34,Recently promoted,Not connected,4500
+US,Female,Senior,25 to 34,Not promoted,Connected to big companies,123400
+US,Female,Senior,25 to 34,Not promoted,Not connected,414400
+US,Female,Senior,18 to 24,Recently promoted,Connected to big companies,1400
+US,Female,Senior,18 to 24,Recently promoted,Not connected,1700
+US,Female,Senior,18 to 24,Not promoted,Connected to big companies,18600
+US,Female,Senior,18 to 24,Not promoted,Not connected,70740
+US,Female,Entry,55+,Not promoted,Connected to big companies,6000
+US,Female,Entry,55+,Not promoted,Not connected,39000
+US,Female,Entry,35 to 54,Not promoted,Connected to big companies,56000
+US,Female,Entry,35 to 54,Not promoted,Not connected,283350
+US,Female,Entry,25 to 34,Recently promoted,Connected to big companies,380
+US,Female,Entry,25 to 34,Recently promoted,Not connected,330
+US,Female,Entry,25 to 34,Not promoted,Connected to big companies,90790
+US,Female,Entry,25 to 34,Not promoted,Not connected,726400
+US,Female,Entry,18 to 24,Recently promoted,Connected to big companies,390
+US,Female,Entry,18 to 24,Recently promoted,Not connected,440
+US,Female,Entry,18 to 24,Not promoted,Connected to big companies,21610
+US,Female,Entry,18 to 24,Not promoted,Not connected,166730
+UK,Female,Director,55+,Not promoted,Connected to big companies,1700
+UK,Female,Director,55+,Not promoted,Not connected,2490
+UK,Female,Director,35 to 54,Recently promoted,Connected to big companies,450
+UK,Female,Director,35 to 54,Recently promoted,Not connected,400
+UK,Female,Director,35 to 54,Not promoted,Connected to big companies,11950
+UK,Female,Director,35 to 54,Not promoted,Not connected,14100
+UK,Female,Director,25 to 34,Recently promoted,Not connected,620
+UK,Female,Director,25 to 34,Not promoted,Connected to big companies,3430
+UK,Female,Director,25 to 34,Not promoted,Not connected,10850
+UK,Female,Director,18 to 24,Not promoted,Connected to big companies,400
+UK,Female,Director,18 to 24,Not promoted,Not connected,1600
+UK,Female,Manager,55+,Not promoted,Connected to big companies,870
+UK,Female,Manager,55+,Not promoted,Not connected,1930
+UK,Female,Manager,35 to 54,Recently promoted,Connected to big companies,470
+UK,Female,Manager,35 to 54,Recently promoted,Not connected,310
+UK,Female,Manager,35 to 54,Not promoted,Connected to big companies,7930
+UK,Female,Manager,35 to 54,Not promoted,Not connected,12990
+UK,Female,Manager,25 to 34,Recently promoted,Connected to big companies,400
+UK,Female,Manager,25 to 34,Recently promoted,Not connected,360
+UK,Female,Manager,25 to 34,Not promoted,Connected to big companies,3810
+UK,Female,Manager,25 to 34,Not promoted,Not connected,15930
+UK,Female,Manager,18 to 24,Not promoted,Connected to big companies,360
+UK,Female,Manager,18 to 24,Not promoted,Not connected,2840
+UK,Female,Senior,55+,Not promoted,Connected to big companies,1900
+UK,Female,Senior,55+,Not promoted,Not connected,5880
+UK,Female,Senior,35 to 54,Recently promoted,Connected to big companies,410
+UK,Female,Senior,35 to 54,Recently promoted,Not connected,520
+UK,Female,Senior,35 to 54,Not promoted,Connected to big companies,20990
+UK,Female,Senior,35 to 54,Not promoted,Not connected,47780
+UK,Female,Senior,25 to 34,Recently promoted,Connected to big companies,710
+UK,Female,Senior,25 to 34,Recently promoted,Not connected,1090
+UK,Female,Senior,25 to 34,Not promoted,Connected to big companies,16690
+UK,Female,Senior,25 to 34,Not promoted,Not connected,66810
+UK,Female,Senior,18 to 24,Recently promoted,Not connected,480
+UK,Female,Senior,18 to 24,Not promoted,Connected to big companies,1900
+UK,Female,Senior,18 to 24,Not promoted,Not connected,13060
+UK,Female,Entry,55+,Not promoted,Connected to big companies,710
+UK,Female,Entry,55+,Not promoted,Not connected,3570
+UK,Female,Entry,35 to 54,Not promoted,Connected to big companies,7710
+UK,Female,Entry,35 to 54,Not promoted,Not connected,32190
+UK,Female,Entry,25 to 34,Not promoted,Connected to big companies,10160
+UK,Female,Entry,25 to 34,Not promoted,Not connected,94140
+UK,Female,Entry,18 to 24,Not promoted,Connected to big companies,1900
+UK,Female,Entry,18 to 24,Not promoted,Not connected,24410
+US,Male,Director,55+,Not promoted,Connected to big companies,35000
+US,Male,Director,55+,Not promoted,Not connected,34000
+US,Male,Director,35 to 54,Recently promoted,Connected to big companies,5000
+US,Male,Director,35 to 54,Recently promoted,Not connected,1600
+US,Male,Director,35 to 54,Not promoted,Connected to big companies,155000
+US,Male,Director,35 to 54,Not promoted,Not connected,117440
+US,Male,Director,25 to 34,Recently promoted,Connected to big companies,2300
+US,Male,Director,25 to 34,Recently promoted,Not connected,1300
+US,Male,Director,25 to 34,Not promoted,Connected to big companies,32700
+US,Male,Director,25 to 34,Not promoted,Not connected,63700
+US,Male,Director,18 to 24,Recently promoted,Connected to big companies,340
+US,Male,Director,18 to 24,Recently promoted,Not connected,290
+US,Male,Director,18 to 24,Not promoted,Connected to big companies,4760
+US,Male,Director,18 to 24,Not promoted,Not connected,10610
+US,Male,Manager,55+,Recently promoted,Not connected,800
+US,Male,Manager,55+,Not promoted,Connected to big companies,21000
+US,Male,Manager,55+,Not promoted,Not connected,34200
+US,Male,Manager,35 to 54,Recently promoted,Connected to big companies,4700
+US,Male,Manager,35 to 54,Recently promoted,Not connected,2000
+US,Male,Manager,35 to 54,Not promoted,Connected to big companies,125300
+US,Male,Manager,35 to 54,Not promoted,Not connected,157160
+US,Male,Manager,25 to 34,Recently promoted,Connected to big companies,3900
+US,Male,Manager,25 to 34,Recently promoted,Not connected,2200
+US,Male,Manager,25 to 34,Not promoted,Connected to big companies,47100
+US,Male,Manager,25 to 34,Not promoted,Not connected,166060
+US,Male,Manager,18 to 24,Recently promoted,Connected to big companies,550
+US,Male,Manager,18 to 24,Recently promoted,Not connected,650
+US,Male,Manager,18 to 24,Not promoted,Connected to big companies,5550
+US,Male,Manager,18 to 24,Not promoted,Not connected,26250
+US,Male,Senior,55+,Recently promoted,Not connected,790
+US,Male,Senior,55+,Not promoted,Connected to big companies,64000
+US,Male,Senior,55+,Not promoted,Not connected,105210
+US,Male,Senior,35 to 54,Recently promoted,Connected to big companies,5000
+US,Male,Senior,35 to 54,Recently promoted,Not connected,3000
+US,Male,Senior,35 to 54,Not promoted,Connected to big companies,363200
+US,Male,Senior,35 to 54,Not promoted,Not connected,516000
+US,Male,Senior,25 to 34,Recently promoted,Connected to big companies,8800
+US,Male,Senior,25 to 34,Recently promoted,Not connected,6200
+US,Male,Senior,25 to 34,Not promoted,Connected to big companies,209300
+US,Male,Senior,25 to 34,Not promoted,Not connected,532500
+US,Male,Senior,18 to 24,Recently promoted,Connected to big companies,2000
+US,Male,Senior,18 to 24,Recently promoted,Not connected,2200
+US,Male,Senior,18 to 24,Not promoted,Connected to big companies,26000
+US,Male,Senior,18 to 24,Not promoted,Not connected,89050
+US,Male,Entry,55+,Not promoted,Connected to big companies,21000
+US,Male,Entry,55+,Not promoted,Not connected,77000
+US,Male,Entry,35 to 54,Not promoted,Connected to big companies,140000
+US,Male,Entry,35 to 54,Not promoted,Not connected,458600
+US,Male,Entry,25 to 34,Recently promoted,Connected to big companies,630
+US,Male,Entry,25 to 34,Recently promoted,Not connected,470
+US,Male,Entry,25 to 34,Not promoted,Connected to big companies,177670
+US,Male,Entry,25 to 34,Not promoted,Not connected,917830
+US,Male,Entry,18 to 24,Recently promoted,Connected to big companies,620
+US,Male,Entry,18 to 24,Recently promoted,Not connected,780
+US,Male,Entry,18 to 24,Not promoted,Connected to big companies,42380
+US,Male,Entry,18 to 24,Not promoted,Not connected,234820
+UK,Male,Director,55+,Not promoted,Connected to big companies,13000
+UK,Male,Director,55+,Not promoted,Not connected,11900
+UK,Male,Director,35 to 54,Recently promoted,Connected to big companies,1200
+UK,Male,Director,35 to 54,Recently promoted,Not connected,600
+UK,Male,Director,35 to 54,Not promoted,Connected to big companies,41300
+UK,Male,Director,35 to 54,Not promoted,Not connected,44700
+UK,Male,Director,25 to 34,Recently promoted,Not connected,930
+UK,Male,Director,25 to 34,Not promoted,Connected to big companies,7470
+UK,Male,Director,25 to 34,Not promoted,Not connected,27300
+UK,Male,Director,18 to 24,Not promoted,Connected to big companies,760
+UK,Male,Director,18 to 24,Not promoted,Not connected,3540
+UK,Male,Manager,55+,Not promoted,Connected to big companies,4200
+UK,Male,Manager,55+,Not promoted,Not connected,6800
+UK,Male,Manager,35 to 54,Recently promoted,Connected to big companies,870
+UK,Male,Manager,35 to 54,Recently promoted,Not connected,630
+UK,Male,Manager,35 to 54,Not promoted,Connected to big companies,18730
+UK,Male,Manager,35 to 54,Not promoted,Not connected,29070
+UK,Male,Manager,25 to 34,Recently promoted,Connected to big companies,460
+UK,Male,Manager,25 to 34,Recently promoted,Not connected,500
+UK,Male,Manager,25 to 34,Not promoted,Connected to big companies,5310
+UK,Male,Manager,25 to 34,Not promoted,Not connected,29530
+UK,Male,Manager,18 to 24,Not promoted,Connected to big companies,480
+UK,Male,Manager,18 to 24,Not promoted,Not connected,5820
+UK,Male,Senior,55+,Not promoted,Connected to big companies,10500
+UK,Male,Senior,55+,Not promoted,Not connected,20100
+UK,Male,Senior,35 to 54,Recently promoted,Connected to big companies,1000
+UK,Male,Senior,35 to 54,Recently promoted,Not connected,1000
+UK,Male,Senior,35 to 54,Not promoted,Connected to big companies,60700
+UK,Male,Senior,35 to 54,Not promoted,Not connected,102300
+UK,Male,Senior,25 to 34,Recently promoted,Connected to big companies,1100
+UK,Male,Senior,25 to 34,Recently promoted,Not connected,1500
+UK,Male,Senior,25 to 34,Not promoted,Connected to big companies,27100
+UK,Male,Senior,25 to 34,Not promoted,Not connected,101500
+UK,Male,Senior,18 to 24,Recently promoted,Not connected,570
+UK,Male,Senior,18 to 24,Not promoted,Connected to big companies,2700
+UK,Male,Senior,18 to 24,Not promoted,Not connected,19430
+UK,Male,Entry,55+,Not promoted,Connected to big companies,3900
+UK,Male,Entry,55+,Not promoted,Not connected,12500
+UK,Male,Entry,35 to 54,Not promoted,Connected to big companies,21700
+UK,Male,Entry,35 to 54,Not promoted,Not connected,71100
+UK,Male,Entry,25 to 34,Not promoted,Connected to big companies,19400
+UK,Male,Entry,25 to 34,Not promoted,Not connected,170900
+UK,Male,Entry,18 to 24,Not promoted,Connected to big companies,3500
+UK,Male,Entry,18 to 24,Not promoted,Not connected,49000
