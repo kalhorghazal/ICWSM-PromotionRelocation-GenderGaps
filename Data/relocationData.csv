@@ -1,0 +1,197 @@
+Country,Gender,Job Seniority,Age Range,Recent Status,Social Connectivity,Count
+US,Female,Director,55+,Not relocated,Connected to big companies,8200
+US,Female,Director,55+,Not relocated,Not connected,10800
+US,Female,Director,35 to 54,Recently relocated,Not connected,390
+US,Female,Director,35 to 54,Not relocated,Connected to big companies,64400
+US,Female,Director,35 to 54,Not relocated,Not connected,61510
+US,Female,Director,25 to 34,Not relocated,Connected to big companies,19400
+US,Female,Director,25 to 34,Not relocated,Not connected,39100
+US,Female,Director,18 to 24,Not relocated,Connected to big companies,3360
+US,Female,Director,18 to 24,Not relocated,Not connected,6070
+US,Female,Manager,55+,Not relocated,Connected to big companies,6200
+US,Female,Manager,55+,Not relocated,Not connected,12490
+US,Female,Manager,35 to 54,Recently relocated,Not connected,470
+US,Female,Manager,35 to 54,Not relocated,Connected to big companies,61200
+US,Female,Manager,35 to 54,Not relocated,Not connected,94130
+US,Female,Manager,25 to 34,Recently relocated,Not connected,490
+US,Female,Manager,25 to 34,Not relocated,Connected to big companies,34700
+US,Female,Manager,25 to 34,Not relocated,Not connected,99810
+US,Female,Manager,18 to 24,Not relocated,Connected to big companies,4060
+US,Female,Manager,18 to 24,Not relocated,Not connected,18040
+US,Female,Senior,55+,Not relocated,Connected to big companies,17000
+US,Female,Senior,55+,Not relocated,Not connected,47620
+US,Female,Senior,35 to 54,Recently relocated,Connected to big companies,750
+US,Female,Senior,35 to 54,Recently relocated,Not connected,550
+US,Female,Senior,35 to 54,Not relocated,Connected to big companies,146850
+US,Female,Senior,35 to 54,Not relocated,Not connected,327150
+US,Female,Senior,25 to 34,Recently relocated,Connected to big companies,1100
+US,Female,Senior,25 to 34,Recently relocated,Not connected,1100
+US,Female,Senior,25 to 34,Not relocated,Connected to big companies,123400
+US,Female,Senior,25 to 34,Not relocated,Not connected,414400
+US,Female,Senior,18 to 24,Recently relocated,Not connected,560
+US,Female,Senior,18 to 24,Not relocated,Connected to big companies,18600
+US,Female,Senior,18 to 24,Not relocated,Not connected,70740
+US,Female,Entry,55+,Not relocated,Connected to big companies,6000
+US,Female,Entry,55+,Not relocated,Not connected,39000
+US,Female,Entry,35 to 54,Recently relocated,Not connected,650
+US,Female,Entry,35 to 54,Not relocated,Connected to big companies,56000
+US,Female,Entry,35 to 54,Not relocated,Not connected,283350
+US,Female,Entry,25 to 34,Recently relocated,Connected to big companies,830
+US,Female,Entry,25 to 34,Recently relocated,Not connected,1270
+US,Female,Entry,25 to 34,Not relocated,Connected to big companies,90790
+US,Female,Entry,25 to 34,Not relocated,Not connected,726400
+US,Female,Entry,18 to 24,Recently relocated,Not connected,830
+US,Female,Entry,18 to 24,Not relocated,Connected to big companies,21610
+US,Female,Entry,18 to 24,Not relocated,Not connected,166730
+UK,Female,Director,55+,Recently relocated,Not connected,510
+UK,Female,Director,55+,Not relocated,Connected to big companies,1700
+UK,Female,Director,55+,Not relocated,Not connected,2490
+UK,Female,Director,35 to 54,Recently relocated,Connected to big companies,1600
+UK,Female,Director,35 to 54,Recently relocated,Not connected,1500
+UK,Female,Director,35 to 54,Not relocated,Connected to big companies,11950
+UK,Female,Director,35 to 54,Not relocated,Not connected,14100
+UK,Female,Director,25 to 34,Recently relocated,Connected to big companies,370
+UK,Female,Director,25 to 34,Recently relocated,Not connected,730
+UK,Female,Director,25 to 34,Not relocated,Connected to big companies,3430
+UK,Female,Director,25 to 34,Not relocated,Not connected,10850
+UK,Female,Director,18 to 24,Not relocated,Connected to big companies,400
+UK,Female,Director,18 to 24,Not relocated,Not connected,1600
+UK,Female,Manager,55+,Not relocated,Connected to big companies,870
+UK,Female,Manager,55+,Not relocated,Not connected,1930
+UK,Female,Manager,35 to 54,Recently relocated,Connected to big companies,1100
+UK,Female,Manager,35 to 54,Recently relocated,Not connected,1200
+UK,Female,Manager,35 to 54,Not relocated,Connected to big companies,7930
+UK,Female,Manager,35 to 54,Not relocated,Not connected,12990
+UK,Female,Manager,25 to 34,Recently relocated,Connected to big companies,490
+UK,Female,Manager,25 to 34,Recently relocated,Not connected,1010
+UK,Female,Manager,25 to 34,Not relocated,Connected to big companies,3810
+UK,Female,Manager,25 to 34,Not relocated,Not connected,15930
+UK,Female,Manager,18 to 24,Not relocated,Connected to big companies,360
+UK,Female,Manager,18 to 24,Not relocated,Not connected,2840
+UK,Female,Senior,55+,Recently relocated,Connected to big companies,300
+UK,Female,Senior,55+,Recently relocated,Not connected,520
+UK,Female,Senior,55+,Not relocated,Connected to big companies,1900
+UK,Female,Senior,55+,Not relocated,Not connected,5880
+UK,Female,Senior,35 to 54,Recently relocated,Connected to big companies,2600
+UK,Female,Senior,35 to 54,Recently relocated,Not connected,3700
+UK,Female,Senior,35 to 54,Not relocated,Connected to big companies,20990
+UK,Female,Senior,35 to 54,Not relocated,Not connected,47780
+UK,Female,Senior,25 to 34,Recently relocated,Connected to big companies,1600
+UK,Female,Senior,25 to 34,Recently relocated,Not connected,4100
+UK,Female,Senior,25 to 34,Not relocated,Connected to big companies,16690
+UK,Female,Senior,25 to 34,Not relocated,Not connected,66810
+UK,Female,Senior,18 to 24,Recently relocated,Not connected,560
+UK,Female,Senior,18 to 24,Not relocated,Connected to big companies,1900
+UK,Female,Senior,18 to 24,Not relocated,Not connected,13060
+UK,Female,Entry,55+,Recently relocated,Not connected,420
+UK,Female,Entry,55+,Not relocated,Connected to big companies,710
+UK,Female,Entry,55+,Not relocated,Not connected,3570
+UK,Female,Entry,35 to 54,Recently relocated,Connected to big companies,890
+UK,Female,Entry,35 to 54,Recently relocated,Not connected,2210
+UK,Female,Entry,35 to 54,Not relocated,Connected to big companies,7710
+UK,Female,Entry,35 to 54,Not relocated,Not connected,32190
+UK,Female,Entry,25 to 34,Recently relocated,Connected to big companies,840
+UK,Female,Entry,25 to 34,Recently relocated,Not connected,4860
+UK,Female,Entry,25 to 34,Not relocated,Connected to big companies,10160
+UK,Female,Entry,25 to 34,Not relocated,Not connected,94140
+UK,Female,Entry,18 to 24,Recently relocated,Not connected,690
+UK,Female,Entry,18 to 24,Not relocated,Connected to big companies,1900
+UK,Female,Entry,18 to 24,Not relocated,Not connected,24410
+US,Male,Director,55+,Not relocated,Connected to big companies,35000
+US,Male,Director,55+,Not relocated,Not connected,34000
+US,Male,Director,35 to 54,Recently relocated,Not connected,960
+US,Male,Director,35 to 54,Not relocated,Connected to big companies,155000
+US,Male,Director,35 to 54,Not relocated,Not connected,117440
+US,Male,Director,25 to 34,Not relocated,Connected to big companies,32700
+US,Male,Director,25 to 34,Not relocated,Not connected,63700
+US,Male,Director,18 to 24,Not relocated,Connected to big companies,4760
+US,Male,Director,18 to 24,Not relocated,Not connected,10610
+US,Male,Manager,55+,Not relocated,Connected to big companies,21000
+US,Male,Manager,55+,Not relocated,Not connected,34200
+US,Male,Manager,35 to 54,Recently relocated,Not connected,840
+US,Male,Manager,35 to 54,Not relocated,Connected to big companies,125300
+US,Male,Manager,35 to 54,Not relocated,Not connected,157160
+US,Male,Manager,25 to 34,Recently relocated,Not connected,740
+US,Male,Manager,25 to 34,Not relocated,Connected to big companies,47100
+US,Male,Manager,25 to 34,Not relocated,Not connected,166060
+US,Male,Manager,18 to 24,Not relocated,Connected to big companies,5550
+US,Male,Manager,18 to 24,Not relocated,Not connected,26250
+US,Male,Senior,55+,Not relocated,Connected to big companies,64000
+US,Male,Senior,55+,Not relocated,Not connected,105210
+US,Male,Senior,35 to 54,Recently relocated,Connected to big companies,1800
+US,Male,Senior,35 to 54,Recently relocated,Not connected,1000
+US,Male,Senior,35 to 54,Not relocated,Connected to big companies,363200
+US,Male,Senior,35 to 54,Not relocated,Not connected,516000
+US,Male,Senior,25 to 34,Recently relocated,Connected to big companies,1900
+US,Male,Senior,25 to 34,Recently relocated,Not connected,1300
+US,Male,Senior,25 to 34,Not relocated,Connected to big companies,209300
+US,Male,Senior,25 to 34,Not relocated,Not connected,532500
+US,Male,Senior,18 to 24,Recently relocated,Not connected,750
+US,Male,Senior,18 to 24,Not relocated,Connected to big companies,26000
+US,Male,Senior,18 to 24,Not relocated,Not connected,89050
+US,Male,Entry,55+,Not relocated,Connected to big companies,21000
+US,Male,Entry,55+,Not relocated,Not connected,77000
+US,Male,Entry,35 to 54,Recently relocated,Not connected,1400
+US,Male,Entry,35 to 54,Not relocated,Connected to big companies,140000
+US,Male,Entry,35 to 54,Not relocated,Not connected,458600
+US,Male,Entry,25 to 34,Recently relocated,Connected to big companies,1700
+US,Male,Entry,25 to 34,Recently relocated,Not connected,1700
+US,Male,Entry,25 to 34,Not relocated,Connected to big companies,177670
+US,Male,Entry,25 to 34,Not relocated,Not connected,917830
+US,Male,Entry,18 to 24,Recently relocated,Not connected,1400
+US,Male,Entry,18 to 24,Not relocated,Connected to big companies,42380
+US,Male,Entry,18 to 24,Not relocated,Not connected,234820
+UK,Male,Director,55+,Recently relocated,Not connected,3100
+UK,Male,Director,55+,Not relocated,Connected to big companies,13000
+UK,Male,Director,55+,Not relocated,Not connected,11900
+UK,Male,Director,35 to 54,Recently relocated,Connected to big companies,5500
+UK,Male,Director,35 to 54,Recently relocated,Not connected,3700
+UK,Male,Director,35 to 54,Not relocated,Connected to big companies,41300
+UK,Male,Director,35 to 54,Not relocated,Not connected,44700
+UK,Male,Director,25 to 34,Recently relocated,Connected to big companies,830
+UK,Male,Director,25 to 34,Recently relocated,Not connected,1470
+UK,Male,Director,25 to 34,Not relocated,Connected to big companies,7470
+UK,Male,Director,25 to 34,Not relocated,Not connected,27300
+UK,Male,Director,18 to 24,Not relocated,Connected to big companies,760
+UK,Male,Director,18 to 24,Not relocated,Not connected,3540
+UK,Male,Manager,55+,Not relocated,Connected to big companies,4200
+UK,Male,Manager,55+,Not relocated,Not connected,6800
+UK,Male,Manager,35 to 54,Recently relocated,Connected to big companies,2400
+UK,Male,Manager,35 to 54,Recently relocated,Not connected,2300
+UK,Male,Manager,35 to 54,Not relocated,Connected to big companies,18730
+UK,Male,Manager,35 to 54,Not relocated,Not connected,29070
+UK,Male,Manager,25 to 34,Recently relocated,Connected to big companies,630
+UK,Male,Manager,25 to 34,Recently relocated,Not connected,1570
+UK,Male,Manager,25 to 34,Not relocated,Connected to big companies,5310
+UK,Male,Manager,25 to 34,Not relocated,Not connected,29530
+UK,Male,Manager,18 to 24,Not relocated,Connected to big companies,480
+UK,Male,Manager,18 to 24,Not relocated,Not connected,5820
+UK,Male,Senior,55+,Recently relocated,Connected to big companies,1500
+UK,Male,Senior,55+,Recently relocated,Not connected,1900
+UK,Male,Senior,55+,Not relocated,Connected to big companies,10500
+UK,Male,Senior,55+,Not relocated,Not connected,20100
+UK,Male,Senior,35 to 54,Recently relocated,Connected to big companies,7300
+UK,Male,Senior,35 to 54,Recently relocated,Not connected,7700
+UK,Male,Senior,35 to 54,Not relocated,Connected to big companies,60700
+UK,Male,Senior,35 to 54,Not relocated,Not connected,102300
+UK,Male,Senior,25 to 34,Recently relocated,Connected to big companies,2800
+UK,Male,Senior,25 to 34,Recently relocated,Not connected,6000
+UK,Male,Senior,25 to 34,Not relocated,Connected to big companies,27100
+UK,Male,Senior,25 to 34,Not relocated,Not connected,101500
+UK,Male,Senior,18 to 24,Recently relocated,Not connected,1300
+UK,Male,Senior,18 to 24,Not relocated,Connected to big companies,2700
+UK,Male,Senior,18 to 24,Not relocated,Not connected,19430
+UK,Male,Entry,55+,Recently relocated,Not connected,1600
+UK,Male,Entry,55+,Not relocated,Connected to big companies,3900
+UK,Male,Entry,55+,Not relocated,Not connected,12500
+UK,Male,Entry,35 to 54,Recently relocated,Connected to big companies,2300
+UK,Male,Entry,35 to 54,Recently relocated,Not connected,4900
+UK,Male,Entry,35 to 54,Not relocated,Connected to big companies,21700
+UK,Male,Entry,35 to 54,Not relocated,Not connected,71100
+UK,Male,Entry,25 to 34,Recently relocated,Connected to big companies,1600
+UK,Male,Entry,25 to 34,Recently relocated,Not connected,8100
+UK,Male,Entry,25 to 34,Not relocated,Connected to big companies,19400
+UK,Male,Entry,25 to 34,Not relocated,Not connected,170900
+UK,Male,Entry,18 to 24,Recently relocated,Not connected,2500
+UK,Male,Entry,18 to 24,Not relocated,Connected to big companies,3500
+UK,Male,Entry,18 to 24,Not relocated,Not connected,49000
