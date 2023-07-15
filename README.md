@@ -57,4 +57,4 @@ relocationData.head(3)
 |----|----|----|----|----|----|----|
 |US|Female|Director|55+|Not relocated|Connected to big companies|8200|
 |US|Female|Director|55+|Not relocated|Not connected|10800|
-|US|Female|Director|35 to 54|Recently relocated promoted|Not connected|390|
+|US|Female|Director|35 to 54|Recently relocated|Not connected|390|
