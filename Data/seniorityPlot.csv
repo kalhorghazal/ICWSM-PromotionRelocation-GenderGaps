@@ -1,0 +1,9 @@
+Gender,Seniority,Ratio,Low,High
+Female,Entry,0.4356591,0.408,0.467
+Female,Senior,0.3804744,0.351,0.412
+Female,Manager,0.1086597,0.09,0.127
+Female,Director,0.07520684,0.059,0.091
+Male,Entry,0.4011719,0.37,0.432
+Male,Senior,0.3794029,0.348,0.411
+Male,Manager,0.1159323,0.097,0.137
+Male,Director,0.1034929,0.086,0.123

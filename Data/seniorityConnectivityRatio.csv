@@ -1,0 +1,9 @@
+Gender,Job Seniority,Connectivity Ratio,Low,High
+Male,Entry,0.2661290323,0.238,0.293
+Male,Senior,0.4658292084,0.435,0.496
+Male,Manager,0.5094909405,0.478,0.539
+Male,Director,0.5619010619,0.529,0.591
+Female,Entry,0.2191218009,0.193,0.246
+Female,Senior,0.4059316749,0.374,0.436
+Female,Manager,0.5118092181,0.48,0.544
+Female,Director,0.5449267349,0.515,0.576
