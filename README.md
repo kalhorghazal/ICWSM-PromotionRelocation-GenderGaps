@@ -6,7 +6,7 @@ This repository contains the dataset and analysis code for the paper:
 
 **Authors:** Ghazal Kalhor, Hannah Gardner, Ingmar Weber, and Ridhi Kashyap
 
-**DOI:** "***"
+**DOI:** https://doi.org/10.48550/arXiv.2308.13296
 
 If you use our dataset or analysis code in your work, please cite our paper:
 
