@@ -6,11 +6,11 @@ This repository contains the dataset and analysis code for the paper:
 
 **Authors:** Ghazal Kalhor, Hannah Gardner, Ingmar Weber, and Ridhi Kashyap
 
-**DOI:** https://doi.org/10.48550/arXiv.2308.13296
+**DOI:** https://doi.org/10.1609/icwsm.v18i1.31353
 
 If you use our dataset or analysis code in your work, please cite our paper:
 
-Kalhor, G., Gardner, H., Weber, I., & Kashyap, R. (2024). Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn. Accepted for publication in the *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)* 2024.
+Kalhor, G., Gardner, H., Weber, I., & Kashyap, R. (2024). Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn. Proceedings of the *International AAAI Conference on Web and Social Media, 18*(1), 800-812. https://doi.org/10.1609/icwsm.v18i1.31353
 
 ## Dataset
 We collected the following features, along with the audience estimate, for each combination of attributes:
