@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite the following paper."
+message: "If you use our dataset or analysis code in your work, please cite our paper as below."
 authors:
   - family-names: "Kalhor"
     given-names: "Ghazal"
+    orcid: "https://orcid.org/0000-0002-6153-9048"
   - family-names: "Gardner"
     given-names: "Hannah"
   - family-names: "Weber"
@@ -10,7 +11,28 @@ authors:
   - family-names: "Kashyap"
     given-names: "Ridhi"
 title: "Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn"
-year: 2024
+version: 1.0.0
 doi: "10.1609/icwsm.v18i1.31353"
+date-released: 2024-06-06
 url: "https://doi.org/10.1609/icwsm.v18i1.31353"
-type: conference-paper
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kalhor"
+      given-names: "Golnoosh"
+      orcid: "https://orcid.org/0000-0002-6153-9048"
+    - family-names: "Gardner"
+      given-names: "Hilary"
+    - family-names: "Weber"
+      given-names: "Ingmar"
+    - family-names: "Kashyap"
+      given-names: "Ridhi"
+  title: "Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn"
+  conference: "Proceedings of the International AAAI Conference on Web and Social Media"
+  volume: 18
+  issue: 1
+  start: 800
+  end: 812
+  year: 2024
+  doi: "10.1609/icwsm.v18i1.31353"
+  url: "https://doi.org/10.1609/icwsm.v18i1.31353"
