@@ -28,7 +28,7 @@ preferred-citation:
     - family-names: "Kashyap"
       given-names: "Ridhi"
   title: "Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn"
-  conference: "Proceedings of the International AAAI Conference on Web and Social Media"
+  journal: "Proceedings of the International AAAI Conference on Web and Social Media"
   volume: 18
   issue: 1
   start: 800
@@ -36,3 +36,4 @@ preferred-citation:
   year: 2024
   doi: "10.1609/icwsm.v18i1.31353"
   url: "https://doi.org/10.1609/icwsm.v18i1.31353"
+
