@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper."
+authors:
+  - family-names: "Kalhor"
+    given-names: "Ghazal"
+  - family-names: "Gardner"
+    given-names: "Hannah"
+  - family-names: "Weber"
+    given-names: "Ingmar"
+  - family-names: "Kashyap"
+    given-names: "Ridhi"
+title: "Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn"
+year: 2024
+doi: "10.1609/icwsm.v18i1.31353"
+url: "https://doi.org/10.1609/icwsm.v18i1.31353"
+type: conference-paper
